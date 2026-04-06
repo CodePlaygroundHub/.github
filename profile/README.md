@@ -1,6 +1,8 @@
-# CodePlaygroundHub
+<h1 align="center">CodePlaygroundHub</h1>
 
+<p align="center">
 Building AI-powered applications, real-time systems, and developer-focused tools.
+</p>
 
 ---
 
