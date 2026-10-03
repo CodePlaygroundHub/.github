@@ -1,44 +1,19 @@
 <h1 align="center">CodePlaygroundHub</h1>
 
 <p align="center">
-Building things, breaking things, learning along the way.
+Things I felt like building.
 </p>
 
 ---
 
-## About
+A small corner for AI, backend systems, real-time applications, developer tools, and random experiments.
 
-CodePlaygroundHub is an independent space for building and experimenting with software.
+Some are serious.  
+Some are experimental.  
+Most are still being figured out.
 
-Mostly AI, real-time systems, full-stack applications, and developer tools.
-
-No particular roadmap. Just shipping, learning, and making things better.
-
----
-
-## What we care about
-
-- AI & intelligent systems
-- Real-time applications
-- Backend engineering
-- Full-stack development
-- Developer tools
-- Open source
-
----
-
-## Philosophy
-
-Build something useful.
-
-Keep it simple.
-
-Learn from what breaks.
-
-Ship again.
-
----
+No big roadmap. Just building things, learning from them, and seeing where they go.
 
 <p align="center">
-<sub>Built in public. Still figuring things out.</sub>
+<sub>Still building.</sub>
 </p>
